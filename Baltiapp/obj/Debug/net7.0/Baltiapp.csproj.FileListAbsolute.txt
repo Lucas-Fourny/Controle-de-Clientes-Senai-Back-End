@@ -1,0 +1,14 @@
+E:\Senai\Sistema Balti\Baltiapp\bin\Debug\net7.0\Baltiapp.exe
+E:\Senai\Sistema Balti\Baltiapp\bin\Debug\net7.0\Baltiapp.deps.json
+E:\Senai\Sistema Balti\Baltiapp\bin\Debug\net7.0\Baltiapp.runtimeconfig.json
+E:\Senai\Sistema Balti\Baltiapp\bin\Debug\net7.0\Baltiapp.dll
+E:\Senai\Sistema Balti\Baltiapp\bin\Debug\net7.0\Baltiapp.pdb
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.AssemblyInfoInputs.cache
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.AssemblyInfo.cs
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.csproj.CoreCompileInputs.cache
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.dll
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\refint\Baltiapp.dll
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.pdb
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\Baltiapp.genruntimeconfig.cache
+E:\Senai\Sistema Balti\Baltiapp\obj\Debug\net7.0\ref\Baltiapp.dll
